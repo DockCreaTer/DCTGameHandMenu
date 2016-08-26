@@ -1,8 +1,0 @@
-name: CosmeticMenu
-main: ImagicalDevs\Cosmetic\Main
-version: 1.0.0
-api: 
-- 2.0.0
-- 1.14.0
-load: POSTWORLD
-author: ImagicalDevs
